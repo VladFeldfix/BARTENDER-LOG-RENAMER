@@ -1,1 +1,1 @@
-BarTender Logs > Logs
+BarTender Logs > C:\Users\me\logs
